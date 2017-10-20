@@ -1,0 +1,54 @@
+{
+  "_from": "easy-fun-log",
+  "_id": "easy-fun-log@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-C4+/QGA4iyhNBJPMaDAedshCnLBVKrIo2O5VP6LaljpRLxCSObyIEuQoc6uO/lbvnerH/zIU1PQo0+ckEc5xSw==",
+  "_location": "/easy-fun-log",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "easy-fun-log",
+    "name": "easy-fun-log",
+    "escapedName": "easy-fun-log",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/easy-fun-log/-/easy-fun-log-0.1.0.tgz",
+  "_shasum": "44d293c57ba5a2c0ec55e2864a6f54bd07fe7b7f",
+  "_spec": "easy-fun-log",
+  "_where": "/home/alexrowe/Code/Repos",
+  "author": {
+    "name": "Alexander Rowe",
+    "email": "alexrowe707@gmail.com",
+    "url": "http://alexrowe.net"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "colour": "^0.7.1",
+    "prettyjson": "^1.2.1"
+  },
+  "deprecated": false,
+  "description": "Easy and Fun Logger!",
+  "keywords": [
+    "logger",
+    "log",
+    "easy",
+    "fun",
+    "color",
+    "error",
+    "warn",
+    "info"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "easy-fun-log",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}
